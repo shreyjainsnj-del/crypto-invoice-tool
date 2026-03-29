@@ -12,7 +12,7 @@ import { signWithFreighter } from './freighter';
 // CONFIGURATION
 const RPC_URL = "https://soroban-testnet.stellar.org:443";
 const NETWORK_PASSPHRASE = "Test SDF Network ; September 2015";
-const CONTRACT_ID = "C...YOUR_CONTRACT_ID_HERE"; 
+const CONTRACT_ID = "b4ba91beea53f30e4f36b8125919047d98d91b76cd24d4ef8a0adac72791661b"; 
 
 const server = new SorobanRpc.Server(RPC_URL);
 
